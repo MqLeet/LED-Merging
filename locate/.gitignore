@@ -1,0 +1,11 @@
+data/HumanEval.jsonl.gz
+data/MathInstruct.json
+data/humaneval.jsonl
+data/humaneval.parquet
+data/train-00000-of-00001.parquet
+data/train-gsm8k.parquet
+data/143k-Tested-Python-Alpaca-Vezora.json
+data/143k-Tested-Python-Alpaca-Vezora-clean.json
+
+
+__pycache__/
