@@ -250,10 +250,11 @@ accelerate launch --num_processes $num_gpus ./bigcode-evaluation-harness/main.py
 ## ✒️ Citation
 If you find **LED-Merging** useful for your research and applications, please kindly cite our paper using this BibTeX:
 ```bibtex
-@article{ma2025led,
-  title={LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint},
+@inproceedings{ma2025led,
+  title={Led-merging: Mitigating safety-utility conflicts in model merging with location-election-disjoint},
   author={Ma, Qianli and Liu, Dongrui and Chen, Qian and Zhang, Linfeng and Shao, Jing},
-  journal={arXiv preprint arXiv:2502.16770},
+  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={21749--21767},
   year={2025}
 }
 ```
