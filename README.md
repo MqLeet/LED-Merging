@@ -4,7 +4,7 @@
 
 <p>
 <a href='https://arxiv.org/abs/2502.16770'><img src='https://img.shields.io/badge/Paper-arXiv-red'></a>
-<!-- <a href='https://mqleet.github.io/DeMe_Project/'><img src='https://img.shields.io/badge/Project-Page-blue'></a> -->
+<a href='https://mqleet.github.io/LED-Merging_Page/'><img src='https://img.shields.io/badge/Project-Page-blue'></a>
 </p>
 
 </div>
@@ -18,7 +18,7 @@
 
 - [x] Merge code
 - [x] Inference code
-- [ ] Project page
+- [x] Project page
 
 
 ## 🛠️ Getting Started
